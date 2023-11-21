@@ -83,7 +83,6 @@ const measureKelvin = function name() {
 // console.log(amplitudeBug);
 
 const data1 = [17, 21, 23];
-const data2 = [17, 21, 23];
 
 // console.log(
 //   `${data1[0]}°C in ${1} days......${data1[1]}°C in ${2} days......${
