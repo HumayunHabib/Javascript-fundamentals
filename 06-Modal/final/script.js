@@ -20,7 +20,7 @@ for (let i = 0; i < btnsOpenModal.length; i++)
 
 btnCloseModal.addEventListener('click', closeModal);
 overlay.addEventListener('click', closeModal);
-
+console.log(btnsOpenModal);
 document.addEventListener('keydown', function (e) {
   // console.log(e.key);
 
